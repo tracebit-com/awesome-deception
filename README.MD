@@ -31,6 +31,7 @@ An awesome list of resources on deception-based computer security with honeypots
 
 # Frameworks
 - [MITRE Engage™](https://engage.mitre.org/)
+  - [Engage](https://github.com/mitre/engage/tree/main) Data Repository.
 - [MITRE D3FEND™](https://d3fend.mitre.org/)
 - [Deception-as-Detection](https://github.com/0x4D31/deception-as-detection)
 
@@ -38,6 +39,7 @@ An awesome list of resources on deception-based computer security with honeypots
 - [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
 
 # Related Lists
+- [awesome-active-defense](https://github.com/adhdproject/awesome-active-defense)
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
 
 # Research
