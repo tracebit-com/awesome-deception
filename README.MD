@@ -33,6 +33,7 @@ An awesome list of resources on deception-based computer security with honeypots
 - [MITRE Engage™](https://engage.mitre.org/)
   - [Engage](https://github.com/mitre/engage/tree/main) Data Repository.
 - [MITRE D3FEND™](https://d3fend.mitre.org/)
+  - [D3FEND](https://github.com/d3fend) Software Repositories.
 - [Deception-as-Detection](https://github.com/0x4D31/deception-as-detection)
 
 # Guides
