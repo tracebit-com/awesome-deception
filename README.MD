@@ -15,17 +15,13 @@ An awesome list of resources on deception-based computer security with honeypots
 > **NOTE** - This repo is a fork of a fork ([emilyanncr/awesome-deception](https://github.com/emilyanncr/awesome-deception) -> [tolgadevsec/Awesome-Deception](https://github.com/tolgadevsec/Awesome-Deception)) and aims to be a more regularly updated awesome deception list.
 
 # Articles
-- 🎮 Valve used [secret memory access “honeypot”](https://arstechnica.com/gaming/2023/02/valve-used-secret-memory-access-honeypot-to-detect-40k-dota-2-cheaters/) to detect 40K Dota 2 cheaters.
+- Explain Like I'm Five: [Poison Records](https://hackernoon.com/poison-records-acra-eli5-d78250ef94f) (2018) (Honeypots for Database Tables). (code) [Acra Poison Records](https://github.com/cossacklabs/acra-poison-records-demo).
+- Deception Engineering: exploring the use of [Windows Service Canaries](https://www.nccgroup.com/us/research-blog/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/) (2021) against ransomware. (code) [KilledProcessCanary](https://github.com/nccgroup/KilledProcessCanary).
+- Valve used [secret memory access “honeypot”](https://arstechnica.com/gaming/2023/02/valve-used-secret-memory-access-honeypot-to-detect-40k-dota-2-cheaters/) (2023) to detect 40K Dota 2 cheaters.
   - [Discussion on Hacker News](https://news.ycombinator.com/item?id=34909218) on potential implementation techniques.  
-- 👿 Deception Engineering: exploring the use of [Windows Service Canaries](https://www.nccgroup.com/us/research-blog/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/) against ransomware.
-  - [KilledProcessCanary](https://github.com/nccgroup/KilledProcessCanary) Code Repository.
-- ☠️ Explain Like I'm Five: [Poison Records](https://hackernoon.com/poison-records-acra-eli5-d78250ef94f) (Honeypots for Database Tables).
-  - [Acra Poison Records](https://github.com/cossacklabs/acra-poison-records-demo) Demo Code Repository.
-- 💳 It’s Baaack… [Credit Card Canarytokens](https://blog.thinkst.com/2024/12/its-baaack-credit-card-canarytokens-are-now-on-your-consoles.html) are now on your Consoles.
-- 🍯 Introducing HASH: The HTTP Agnostic Software [Honeypot framework](https://securitylabs.datadoghq.com/articles/hash-honeypot-framework/) for creating HTTP low-interaction honeypots.
-  - [HASH](https://github.com/DataDog/hash) Code Repository.
-- ☁️ Cloud [Active Defense](https://www.helpnetsecurity.com/2024/04/02/cloud-active-defense-open-source-cloud-protection/): Open-source cloud protection
-  - [Cloud Active Defense](https://github.com/SAP/cloud-active-defense) Code Repository.
+- Introducing HASH: The HTTP Agnostic Software [Honeypot framework](https://securitylabs.datadoghq.com/articles/hash-honeypot-framework/) (2023) for creating HTTP low-interaction honeypots. (code) [HASH](https://github.com/DataDog/hash).
+- Cloud [Active Defense](https://www.helpnetsecurity.com/2024/04/02/cloud-active-defense-open-source-cloud-protection/) (2024): Open-source cloud protection. (code) [Cloud Active Defense](https://github.com/SAP/cloud-active-defense).
+- Thinkst’s It’s Baaack… [Credit Card Canarytokens](https://blog.thinkst.com/2024/12/its-baaack-credit-card-canarytokens-are-now-on-your-consoles.html) (2024) are now on your Consoles.
 - UK’s NCSC on [building a nation-scale evidence base](https://www.ncsc.gov.uk/blog-post/building-a-nation-scale-evidence-base-for-cyber-deception) (2024) outlines the UK’s goals for large-scale deception deployment.
 - [LLM Agent Honeypot](https://ai-honeypot.palisaderesearch.org/) (2024-2025) - a live experiment tracking AI-assisted attack activity in the wild.
 - Wiz’s [HoneyBee threat research](https://www.wiz.io/blog/honeybee-threat-research) (2025) covers their open-source honeypot deployment tooling for misconfiguration and exploitation detection.
