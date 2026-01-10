@@ -40,7 +40,6 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 - [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/doi/abs/10.1145/3214305) (2019) - broad survey of deception methods and research directions.
 - [The Tularosa Study: An Experimental Design and Implementation to Quantify the Effectiveness of Cyber Deception](https://scholarspace.manoa.hawaii.edu/items/f05182cc-6460-410e-a750-e7c17f674be1) (2019) - HICSS study with 130+ red teamers, manipulating deception presence and awareness while tracking cognitive and physiological effects.
 - [When Announcing Deception Technology Can Change Attacker Decisions](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/6c188375-03f6-4d66-afee-296308c9f2c0/content) (2024) - study on how disclosure of deception influences attacker behavior.
-  - [Tracebit commentary](https://tracebit.com/blog/canary-program-communication-secrecy-vs-discretion)
 - [Prospect Theoretic Hypothesis Testing-based Cyber Deception](https://ieeexplore.ieee.org/abstract/document/11206237) (2025) - study on using prospect theory to shape deception during reconnaissance.
 - [Koney: A Cyber Deception Orchestration Framework for Kubernetes](https://arxiv.org/pdf/2504.02431) (2025) - orchestrates deception assets across Kubernetes clusters.
 - [Applying game theory to deception](https://arxiv.org/pdf/2505.21244) (2025) - models attacker-defender dynamics using game-theoretic approaches.
