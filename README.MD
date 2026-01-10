@@ -4,13 +4,13 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 
 # Contents
 - [Articles](#articles)
-- [Communities](#communities)
-- [Frameworks](#frameworks)
+- [Research](#research)
 - [Guides](#guides)
 - [Talks](#talks)
 - [Conferences](#conferences)
+- [Communities](#communities)
+- [Frameworks](#frameworks)
 - [Related Lists](#related-lists)
-- [Research](#research)
 
 > **NOTE** - This repo is a fork of a fork ([emilyanncr/awesome-deception](https://github.com/emilyanncr/awesome-deception) -> [tolgadevsec/Awesome-Deception](https://github.com/tolgadevsec/Awesome-Deception)) and aims to be a more regularly updated awesome deception list.
 
@@ -34,34 +34,6 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 - watchTowr Labs on [Canary Credentials in the wild](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/) (2025) highlights credential leakage via online tooling.
 - UK’s NCSC on [cyber deception trials](https://www.ncsc.gov.uk/blog-post/cyber-deception-trials-what-weve-learned-so-far) (2025) shares early findings from UK-wide product trials.
 
-# Communities
-- [/r/cyber_deception](https://www.reddit.com/r/cyber_deception/)
-- [The Honeynet Project](https://www.honeynet.org/)
-
-# Frameworks
-- [MITRE Engage™](https://engage.mitre.org/)
-  - [Engage](https://github.com/mitre/engage/tree/main) Data Repository.
-- [MITRE D3FEND™](https://d3fend.mitre.org/)
-  - [D3FEND](https://github.com/d3fend) Software Repositories.
-- [Deception-as-Detection](https://github.com/0x4D31/deception-as-detection)
-
-# Guides
-- [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
-- [Taxonomy and terminology](https://bluepillsecurity.com/blog/001_terms/) - terminology and definitions for cyber deception.
-
-# Talks
-- [Deception & Operations Planning Frameworks](https://www.youtube.com/watch?v=yIutY_X2FcU) (2025) - ShmooCon talk on a physical deception operation.
-- [Applying Deception to the Attack Lifecycle](https://www.youtube.com/watch?v=vEHg9hRyJ9c) (2025) - Tim Pappa and Skylar Simmons (Walmart) on using deception across the attacker journey.
-- [Sweet Deception: Mastering AWS Honey Tokens to Detect and Outsmart Attackers](https://www.youtube.com/watch?v=R75ZTBnUwXk) (2025) - Nick Frichette.
-- [Continuous Integration / Continuous Deception: Trying my luck as a malicious maintainer](https://www.youtube.com/watch?v=ehmAy320R4A) (2025) - Benedikt Haußner.
-
-# Conferences
-- [Active Defense & Deception (AD&D)](https://adnd.work/) - Active conference, most recent event in 2025.
-- [Honeynet Workshops](https://www.honeynet.org/workshops/) - Active conference, most recent event in 2025.
-
-# Related Lists
-- [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - A thorough and fairly regularly updated list of open source honeypots.
-
 # Research
 ### Papers
 - [Demystifying Deception Technology: A Survey](https://arxiv.org/abs/1804.06196) (2018) - survey of deception taxonomies, deployment models, and evaluation gaps.
@@ -78,3 +50,31 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 - [Honeyquest](https://github.com/dynatrace-oss/honeyquest)
 - [Knocking on Admin’s Door: Protecting Critical Web Applications with Deception](https://github.com/BillyPragSec/pageknocking)
 - [SCANTRAP: Protecting Content Management Systems from Vulnerability Scanners with Cyber Deception and Obfuscation](https://github.com/dfki-in-sec/SCANTRAP)
+
+# Guides
+- [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
+- [Taxonomy and terminology](https://bluepillsecurity.com/blog/001_terms/) - terminology and definitions for cyber deception.
+
+# Talks
+- [Deception & Operations Planning Frameworks](https://www.youtube.com/watch?v=yIutY_X2FcU) (2025) - ShmooCon talk on a physical deception operation.
+- [Applying Deception to the Attack Lifecycle](https://www.youtube.com/watch?v=vEHg9hRyJ9c) (2025) - Tim Pappa and Skylar Simmons (Walmart) on using deception across the attacker journey.
+- [Sweet Deception: Mastering AWS Honey Tokens to Detect and Outsmart Attackers](https://www.youtube.com/watch?v=R75ZTBnUwXk) (2025) - Nick Frichette.
+- [Continuous Integration / Continuous Deception: Trying my luck as a malicious maintainer](https://www.youtube.com/watch?v=ehmAy320R4A) (2025) - Benedikt Haußner.
+
+# Conferences
+- [Active Defense & Deception (AD&D)](https://adnd.work/) - Active conference, most recent event in 2025.
+- [Honeynet Workshops](https://www.honeynet.org/workshops/) - Active conference, most recent event in 2025.
+
+# Communities
+- [/r/cyber_deception](https://www.reddit.com/r/cyber_deception/)
+- [The Honeynet Project](https://www.honeynet.org/)
+
+# Frameworks
+- [MITRE Engage™](https://engage.mitre.org/)
+  - [Engage](https://github.com/mitre/engage/tree/main) Data Repository.
+- [MITRE D3FEND™](https://d3fend.mitre.org/)
+  - [D3FEND](https://github.com/d3fend) Software Repositories.
+- [Deception-as-Detection](https://github.com/0x4D31/deception-as-detection)
+
+# Related Lists
+- [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - A thorough and fairly regularly updated list of open source honeypots.
