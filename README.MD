@@ -77,7 +77,3 @@ An awesome list of resources on deception-based computer security with honeypots
 - [Honeyquest](https://github.com/dynatrace-oss/honeyquest)
 - [Knocking on Admin’s Door: Protecting Critical Web Applications with Deception](https://github.com/BillyPragSec/pageknocking)
 - [SCANTRAP: Protecting Content Management Systems from Vulnerability Scanners with Cyber Deception and Obfuscation](https://github.com/dfki-in-sec/SCANTRAP)
-### Groups and Laboratories
-- [DFK IN - Cyber Resilience and Security](https://github.com/dfki-in-sec)
-- [Purdue University - Deception Group](https://www.cerias.purdue.edu/site/deception/)
-- [UK National Cyber Deception Laboratory](https://www.cyberdeception.org.uk/)
