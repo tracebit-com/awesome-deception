@@ -10,7 +10,7 @@ An awesome list of resources on deception-based computer security with honeypots
 - [Related Lists](#related-lists)
 - [Research](#research)
 
-> **NOTE** - This repo is a fork of a fork ([emilyanncr/awesome-deception](https://github.com/emilyanncr/awesome-deception) -> [tolgadevsec/Awesome-Deception](https://github.com/tolgadevsec/Awesome-Deception)) and aims to be a more regularly updated awesome deception list. The original list has been [archived](https://github.com/tolgadevsec/Awesome-Deception/blob/master/ARCHIVE.MD).
+> **NOTE** - This repo is a fork of a fork ([emilyanncr/awesome-deception](https://github.com/emilyanncr/awesome-deception) -> [tolgadevsec/Awesome-Deception](https://github.com/tolgadevsec/Awesome-Deception)) and aims to be a more regularly updated awesome deception list.
 
 # Articles
 - 🎮 Valve used [secret memory access “honeypot”](https://arstechnica.com/gaming/2023/02/valve-used-secret-memory-access-honeypot-to-detect-40k-dota-2-cheaters/) to detect 40K Dota 2 cheaters.
