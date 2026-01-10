@@ -1,6 +1,6 @@
 # 🥷 Awesome Deception [![Awesome Deception](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An awesome list of resources on deception-based computer security with honeypots and honeytokens.
+An awesome collection of articles, papers, conferences, guides, and tools relating to deception in cybersecurity. For a list of open source honeypots, see [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 # Contents
 - [Articles](#articles)
