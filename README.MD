@@ -40,7 +40,6 @@ An awesome list of resources on deception-based computer security with honeypots
 
 # Communities
 - [/r/cyber_deception](https://www.reddit.com/r/cyber_deception/)
-- [/r/honeypot](https://www.reddit.com/r/honeypot/)
 - [The Honeynet Project](https://www.honeynet.org/)
 
 # Frameworks
