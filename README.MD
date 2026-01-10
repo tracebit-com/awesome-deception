@@ -41,8 +41,7 @@ An awesome list of resources on deception-based computer security with honeypots
 - [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
 
 # Related Lists
-- [awesome-active-defense](https://github.com/adhdproject/awesome-active-defense)
-- [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
+- [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - A thorough and fairly regularly updated list of open source honeypots.
 
 # Research
 
