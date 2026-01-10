@@ -60,6 +60,9 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 - [Applying Deception to the Attack Lifecycle](https://www.youtube.com/watch?v=vEHg9hRyJ9c) (2025) - Tim Pappa and Skylar Simmons (Walmart) on using deception across the attacker journey.
 - [Sweet Deception: Mastering AWS Honey Tokens to Detect and Outsmart Attackers](https://www.youtube.com/watch?v=R75ZTBnUwXk) (2025) - Nick Frichette.
 - [Continuous Integration / Continuous Deception: Trying my luck as a malicious maintainer](https://www.youtube.com/watch?v=ehmAy320R4A) (2025) - Benedikt Haußner.
+- [Turning The Tables: Using Cyber Deception To Hunt Phishers At Scale](https://www.youtube.com/watch?v=78qnM_ZzpNc) (2024) - BSides Exeter.
+- [Counter Deception: Defending Yourself in a World Full of Lies](https://www.youtube.com/watch?v=gHqDEMrqTjE) (2024) - DEF CON 32 (August 2024), Tom Cross and Greg Conti.
+- [Mirage: Cyber Deception Against Autonomous Cyber Attacks](https://www.youtube.com/watch?v=S0ioMe-g0vk) (2024) - Black Hat USA 2024, Ron Alford and Michael Kouremetis.
 
 # Conferences
 - [Active Defense & Deception (AD&D)](https://adnd.work/) - Active conference, most recent event in 2025.
