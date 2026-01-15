@@ -43,6 +43,7 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 - [Prospect Theoretic Hypothesis Testing-based Cyber Deception](https://ieeexplore.ieee.org/abstract/document/11206237) (2025) - study on using prospect theory to shape deception during reconnaissance.
 - [Koney: A Cyber Deception Orchestration Framework for Kubernetes](https://arxiv.org/pdf/2504.02431) (2025) - orchestrates deception assets across Kubernetes clusters.
 - [Applying game theory to deception](https://arxiv.org/pdf/2505.21244) (2025) - models attacker-defender dynamics using game-theoretic approaches.
+- [Database Deception using Large Language Models](https://faculty.nps.edu/ncrowe/WAITI_Data_based_deception_paper.pdf) (2025) - applies LLMs to create deceptive database artifacts.
 
 ### Code Repositories
 - [Evaluating Deception and Moving Target Defense with Network Attack Simulation](https://github.com/dfki-in-sec/NASIM-MTD)
