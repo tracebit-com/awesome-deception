@@ -44,6 +44,7 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 - [Koney: A Cyber Deception Orchestration Framework for Kubernetes](https://arxiv.org/pdf/2504.02431) (2025) - orchestrates deception assets across Kubernetes clusters.
 - [Applying game theory to deception](https://arxiv.org/pdf/2505.21244) (2025) - models attacker-defender dynamics using game-theoretic approaches.
 - [Database Deception using Large Language Models](https://faculty.nps.edu/ncrowe/WAITI_Data_based_deception_paper.pdf) (2025) - applies LLMs to create deceptive database artifacts.
+- [HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense](https://arxiv.org/abs/2601.04034) (2026) - proposes a deceptive LLM defense framework with multi-agent coordination, plus a progressive jailbreak dataset and new metrics for measuring misdirection and attacker cost. 
 
 ### Code Repositories
 - [Evaluating Deception and Moving Target Defense with Network Attack Simulation](https://github.com/dfki-in-sec/NASIM-MTD)
