@@ -33,6 +33,9 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 - Grafana’s [canary tokens “unsung heroes” write-up](https://grafana.com/blog/2025/08/25/canary-tokens-learn-all-about-the-unsung-heroes-of-security-at-grafana-labs/) (2025) shares ROI and lessons learned.
 - watchTowr Labs on [Canary Credentials in the wild](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/) (2025) highlights credential leakage via online tooling.
 - UK’s NCSC on [cyber deception trials](https://www.ncsc.gov.uk/blog-post/cyber-deception-trials-what-weve-learned-so-far) (2025) shares early findings from UK-wide product trials.
+- SpecterOps on [mapping deception with BloodHound OpenGraph](https://specterops.io/blog/2025/12/23/mapping-deception-with-bloodhound-opengraph/) (2025) details how to model deception coverage in BloodHound.
+- Resecurity on [synthetic data for cyber deception and honeypots](https://www.resecurity.com/es/blog/article/synthetic-data-a-new-frontier-for-cyber-deception-and-honeypots) (2025) explores synthetic data to improve honeypot realism.
+- Forescout on [a hacktivist attack targeting OT/ICS](https://www.forescout.com/blog/anatomy-of-a-hacktivist-attack-russian-aligned-group-targets-otics/) (2025) analyzes the incident, including honeypot use and defensive takeaways.
 
 # Research
 ### Papers
@@ -45,6 +48,9 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 - [Koney: A Cyber Deception Orchestration Framework for Kubernetes](https://arxiv.org/pdf/2504.02431) (2025) - orchestrates deception assets across Kubernetes clusters.
 - [Applying game theory to deception](https://arxiv.org/pdf/2505.21244) (2025) - models attacker-defender dynamics using game-theoretic approaches.
 - [Database Deception using Large Language Models](https://faculty.nps.edu/ncrowe/WAITI_Data_based_deception_paper.pdf) (2025) - applies LLMs to create deceptive database artifacts.
+- [A Descriptive Model for Modelling Attacker Decision-Making in Cyber-Deception](https://arxiv.org/abs/2512.03641) (2025) - proposes a model of attacker engagement decisions under deception cues.
+- [Agentic AI for Cyber Resilience: A New Security Paradigm and Its System-Theoretic Foundations](https://arxiv.org/abs/2512.22883) (2025) - argues for agentic resilience with cyber deception case studies.
+- [SoK: Honeypots & LLMs, More Than the Sum of Their Parts?](https://arxiv.org/abs/2510.25939) (2025) - systematizes LLM-powered honeypot research and evaluation trends.
 - [HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense](https://arxiv.org/abs/2601.04034) (2026) - proposes a deceptive LLM defense framework with multi-agent coordination, plus a progressive jailbreak dataset and new metrics for measuring misdirection and attacker cost. 
 
 ### Code Repositories
