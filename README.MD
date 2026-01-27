@@ -52,6 +52,7 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 - [Agentic AI for Cyber Resilience: A New Security Paradigm and Its System-Theoretic Foundations](https://arxiv.org/abs/2512.22883) (2025) - argues for agentic resilience with cyber deception case studies.
 - [SoK: Honeypots & LLMs, More Than the Sum of Their Parts?](https://arxiv.org/abs/2510.25939) (2025) - systematizes LLM-powered honeypot research and evaluation trends.
 - [HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense](https://arxiv.org/abs/2601.04034) (2026) - proposes a deceptive LLM defense framework with multi-agent coordination, plus a progressive jailbreak dataset and new metrics for measuring misdirection and attacker cost. 
+- [Measuring the Efficacy of Cyber Deception](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176834017.70221537) (2026) - examines how to measure cyber deception effectiveness by reviewing existing evaluation approaches and proposing new metrics and frameworks to assess deceptive tactics in modern, AI-augmented threat environments.
 
 ### Code Repositories
 - [Evaluating Deception and Moving Target Defense with Network Attack Simulation](https://github.com/dfki-in-sec/NASIM-MTD)
