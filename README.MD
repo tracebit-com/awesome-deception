@@ -36,6 +36,7 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 - SpecterOps on [mapping deception with BloodHound OpenGraph](https://specterops.io/blog/2025/12/23/mapping-deception-with-bloodhound-opengraph/) (2025) details how to model deception coverage in BloodHound.
 - Resecurity on [synthetic data for cyber deception and honeypots](https://www.resecurity.com/es/blog/article/synthetic-data-a-new-frontier-for-cyber-deception-and-honeypots) (2025) explores synthetic data to improve honeypot realism.
 - Forescout on [a hacktivist attack targeting OT/ICS](https://www.forescout.com/blog/anatomy-of-a-hacktivist-attack-russian-aligned-group-targets-otics/) (2025) analyzes the incident, including honeypot use and defensive takeaways.
+- UpGuard on [preventing supply chain attacks with honeytokens](https://www.upguard.com/blog/prevent-supply-chain-attacks-with-honeytokens) (2025).
 
 # Research
 ### Papers
