@@ -66,6 +66,7 @@ An awesome collection of articles, papers, conferences, guides, and tools relati
 # Guides
 - [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
 - [Taxonomy and terminology](https://bluepillsecurity.com/blog/001_terms/) - terminology and definitions for cyber deception.
+- [The “AI Vulnerability Storm”: Building a “Mythos-ready” Security Program](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf) (2026) - CSA strategy briefing that flags deception as a priority in AI-driven vulnerability discovery and response programs.
 
 # Talks
 - [Deception & Operations Planning Frameworks](https://www.youtube.com/watch?v=yIutY_X2FcU) (2025) - ShmooCon talk on a physical deception operation.
