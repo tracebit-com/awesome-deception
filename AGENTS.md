@@ -1,9 +1,9 @@
 # AGENTS.md
 
 ## Purpose
-This repository is a curated list (`README.MD`) of deception-related resources. Future Codex runs should prioritize **accuracy over volume** and avoid speculative edits.
+This repository is a curated list (`README.md`) of deception-related resources. Future Codex runs should prioritize **accuracy over volume** and avoid speculative edits.
 
-## Rules for updating `README.MD`
+## Rules for updating `README.md`
 1. **Never fabricate details**
    - Do not invent titles, dates, summaries, authors, venues, or claims.
    - If a source page/PDF cannot be accessed well enough to verify facts, do **not** add or modify that entry.
@@ -34,4 +34,4 @@ This repository is a curated list (`README.MD`) of deception-related resources. 
 - Verify each changed/added year is correct.
 - Confirm new bullets were appended (unless user requested different ordering).
 - Check for accidental duplicates.
-- Run: `git diff -- README.MD` and sanity-check every changed line.
+- Run: `git diff -- README.md` and sanity-check every changed line.
