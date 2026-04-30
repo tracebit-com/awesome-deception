@@ -4,7 +4,8 @@ Thanks for considering a contribution to this list! Please ensure your pull requ
 
 ## Adding a resource
 
-- Suggested resources should be on-topic for cyber deception: honeypots, honeytokens, decoys, canaries, deception-aware detection, attacker engagement, or related research and operations.
+- Suggested resources should be on-topic for cyber deception: honeytokens, decoys, canaries, deception-aware detection, attacker engagement, or related research and operations.
+- Individual open source honeypots are best sent to [awesome-honeypots](https://github.com/paralax/awesome-honeypots) rather than this list. Articles, papers, talks, and frameworks that happen to involve honeypots are still in scope here.
 - Make sure the resource is high-quality, useful, and not duplicated elsewhere on the list.
 - Place new entries at the bottom of the appropriate section unless there is a clear reason to put them elsewhere.
 - Use the format `- [Name](link) - Description.`
