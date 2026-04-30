@@ -1,6 +1,6 @@
 # 🥷 Awesome Deception [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Misleading attackers with honeypots, honeytokens, and decoys to detect, study, and disrupt intrusions.
+> Misleading attackers with honeypots, honeytokens, and decoys to detect, study, and disrupt intrusions. For a list of open source honeypots, see [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 ## Contents
 
@@ -95,10 +95,6 @@
 - [MITRE Engage™](https://engage.mitre.org/) - Adversary engagement framework, with a [data repository](https://github.com/mitre/engage/tree/main).
 - [MITRE D3FEND™](https://d3fend.mitre.org/) - Defensive cybersecurity countermeasures knowledge graph, with [software repositories](https://github.com/d3fend).
 - [Deception-as-Detection](https://github.com/0x4D31/deception-as-detection) - Deception planning mapped against the MITRE ATT&CK matrix.
-
-## Related Lists
-
-- [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - A thorough and fairly regularly updated list of open source honeypots.
 
 ## Footnotes
 
