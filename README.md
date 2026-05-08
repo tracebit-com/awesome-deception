@@ -36,6 +36,7 @@
 - Forescout on [a hacktivist attack targeting OT/ICS](https://www.forescout.com/blog/anatomy-of-a-hacktivist-attack-russian-aligned-group-targets-otics/) (2025) analyzes the incident, including honeypot use and defensive takeaways.
 - UpGuard on [preventing supply chain attacks with honeytokens](https://www.upguard.com/blog/prevent-supply-chain-attacks-with-honeytokens) (2025).
 - Ars Technica on [a Canadian election-list canary trap](https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/) (2026) covers how salted entries identified the source of a voter database leak.
+- Wiz’s [Practical Package Security: The Unofficial Guide](https://www.wiz.io/blog/practical-package-security-the-unofficial-guide) (2026) highlights CI/CD honeytokens for high-signal detection, citing Grafana’s canary AWS key alert during a compromised GitHub Action incident.
 
 ## Research
 
