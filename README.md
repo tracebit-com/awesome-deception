@@ -85,7 +85,7 @@
 
 ## Conferences
 
-- [Active Defense & Deception (AD&D)](https://adnd.work/) - Active conference, most recent event in 2025.
+- [Active Defense & Deception (AD&D)](https://adnd.work/) - Active conference, most recent event in 2026.
 - [Honeynet Workshops](https://www.honeynet.org/workshops/) - Active conference, most recent event in 2025.
 
 ## Communities
