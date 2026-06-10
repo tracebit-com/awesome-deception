@@ -8,6 +8,7 @@
 - [Research](#research)
 - [Guides](#guides)
 - [Talks](#talks)
+- [Podcasts](#podcasts)
 - [Conferences](#conferences)
 - [Communities](#communities)
 - [Frameworks](#frameworks)
@@ -82,6 +83,10 @@
 - [Turning The Tables: Using Cyber Deception To Hunt Phishers At Scale](https://www.youtube.com/watch?v=78qnM_ZzpNc) (2024) - BSides Exeter.
 - [Counter Deception: Defending Yourself in a World Full of Lies](https://www.youtube.com/watch?v=gHqDEMrqTjE) (2024) - DEF CON 32, Tom Cross and Greg Conti.
 - [Mirage: Cyber Deception Against Autonomous Cyber Attacks](https://www.youtube.com/watch?v=S0ioMe-g0vk) (2024) - Black Hat USA 2024, Ron Alford and Michael Kouremetis.
+
+## Podcasts
+
+- [EP281: Deceiving Adversaries at Scale with Kevin Conley](https://open.spotify.com/episode/2Ac5LRaC2fduw9B9S2A2WK) (2026) - Cloud Security Podcast by Google episode on lessons from scaling deception technology at Riot Games.
 
 ## Conferences
 
