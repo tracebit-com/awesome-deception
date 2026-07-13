@@ -103,6 +103,7 @@
 - [MITRE Engage™](https://engage.mitre.org/) - Adversary engagement framework, with a [data repository](https://github.com/mitre/engage/tree/main).
 - [MITRE D3FEND™](https://d3fend.mitre.org/) - Defensive cybersecurity countermeasures knowledge graph, with [software repositories](https://github.com/d3fend).
 - [Deception-as-Detection](https://github.com/0x4D31/deception-as-detection) - Deception planning mapped against the MITRE ATT&CK matrix.
+- [HoneyWire](https://github.com/AndReicscs/HoneyWire) - Open-Source, Unlimited Deception Platform to turn Linux machines into enterprise-grade canaries.
 
 ## Footnotes
 
