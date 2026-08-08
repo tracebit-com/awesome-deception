@@ -83,7 +83,7 @@
 - [Turning The Tables: Using Cyber Deception To Hunt Phishers At Scale](https://www.youtube.com/watch?v=78qnM_ZzpNc) (2024) - BSides Exeter.
 - [Counter Deception: Defending Yourself in a World Full of Lies](https://www.youtube.com/watch?v=gHqDEMrqTjE) (2024) - DEF CON 32, Tom Cross and Greg Conti.
 - [Mirage: Cyber Deception Against Autonomous Cyber Attacks](https://www.youtube.com/watch?v=S0ioMe-g0vk) (2024) - Black Hat USA 2024, Ron Alford and Michael Kouremetis.
-- [The 'Breaking' News: The OpenAI–Hugging Face Incident](https://youtu.be/87DyyMV0kCY?t=2113) (2026) - Black Hat USA talk on the incident that calls for deploying honeytokens and deception to slow attacking AI agents.
+- [The 'Breaking' News: The OpenAI–Hugging Face Incident](https://youtu.be/87DyyMV0kCY?t=2113) (2026) - Black Hat USA talk on the incident that, at 35:13, calls for deploying honeytokens and deception to slow attacking AI agents.
 
 ## Podcasts
 
