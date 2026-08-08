@@ -73,6 +73,7 @@
 - [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
 - [Taxonomy and terminology](https://bluepillsecurity.com/blog/001_terms/) - Terminology and definitions for cyber deception.
 - [The “AI Vulnerability Storm”: Building a “Mythos-ready” Security Program](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf) (2026) - CSA strategy briefing that flags deception as a priority in AI-driven vulnerability discovery and response programs.
+- [Hugging Face Incident Initial Post-Mortem](https://s3.amazonaws.com/content-production.cloudsecurityalliance/semxe47vxhaqctzr4xeb1khbztvv?response-content-disposition=inline%3B%20filename%3D%22Hugging%20Face%20Incident%20Initial%20Post-Mortem_v.8f.pdf%22%3B%20filename%2A%3DUTF-8%27%27Hugging%2520Face%2520Incident%2520Initial%2520Post-Mortem_v.8f.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS6XDIRHKHO4F5SU4%2F20260807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260807T180358Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=2826498bb01aa1503d9cbe5699a0863f1763ee248c607ea1e9e07063f343f4bc) (2026) - Expedited strategy briefing that recommends deploying fake identities, credentials, package registries, datasets, APIs, and clusters to slow attackers and generate high-confidence indicators.
 
 ## Talks
 
