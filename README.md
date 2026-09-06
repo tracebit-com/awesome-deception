@@ -67,6 +67,7 @@
 - [Honeyquest](https://github.com/dynatrace-oss/honeyquest)
 - [Knocking on Admin’s Door: Protecting Critical Web Applications with Deception](https://github.com/BillyPragSec/pageknocking)
 - [SCANTRAP: Protecting Content Management Systems from Vulnerability Scanners with Cyber Deception and Obfuscation](https://github.com/dfki-in-sec/SCANTRAP)
+- [Honeypot Auditor](https://github.com/mziqudhd92/honeypot-auditor) - Multi-protocol CLI that fingerprints whether an authorized target behaves like a low-interaction honeypot using passive intel and non-destructive probes.
 
 ## Guides
 
