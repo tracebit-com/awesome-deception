@@ -8,7 +8,6 @@ Entries are ordered by the most precise verified publication date, newest first;
 
 - [Articles](#articles)
 - [Research](#research)
-- [Guides](#guides)
 - [Talks](#talks)
 - [Podcasts](#podcasts)
 - [Conferences](#conferences)
@@ -17,8 +16,11 @@ Entries are ordered by the most precise verified publication date, newest first;
 
 ## Articles
 
-- Ars Technica on [a Canadian election-list canary trap](https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/) (2026) covers how salted entries identified the source of a voter database leak.
+- [Using Cyber Decoys to Strengthen Detection and Response](https://www.cisa.gov/sites/default/files/2026-09/using-cyber-decoys-to-strengthen-detection-and-response_508c.pdf) (2026) - Practical CISA guidance for planning, deploying, and refining internal decoys and honeytokens with MITRE Engage and ATT&CK to generate high-fidelity alerts and reduce detection time.
+- [Hugging Face Incident Initial Post-Mortem](https://s3.amazonaws.com/content-production.cloudsecurityalliance/semxe47vxhaqctzr4xeb1khbztvv?response-content-disposition=inline%3B%20filename%3D%22Hugging%20Face%20Incident%20Initial%20Post-Mortem_v.8f.pdf%22%3B%20filename%2A%3DUTF-8%27%27Hugging%2520Face%2520Incident%2520Initial%2520Post-Mortem_v.8f.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS6XDIRHKHO4F5SU4%2F20260807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260807T180358Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=2826498bb01aa1503d9cbe5699a0863f1763ee248c607ea1e9e07063f343f4bc) (2026) - Expedited strategy briefing that recommends deploying fake identities, credentials, package registries, datasets, APIs, and clusters to slow attackers and generate high-confidence indicators.
 - Wiz’s [Practical Package Security: The Unofficial Guide](https://www.wiz.io/blog/practical-package-security-the-unofficial-guide) (2026) highlights CI/CD honeytokens for high-signal detection, citing Grafana’s canary AWS key alert during a compromised GitHub Action incident.
+- Ars Technica on [a Canadian election-list canary trap](https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/) (2026) covers how salted entries identified the source of a voter database leak.
+- [The “AI Vulnerability Storm”: Building a “Mythos-ready” Security Program](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf) (2026) - CSA strategy briefing that flags deception as a priority in AI-driven vulnerability discovery and response programs.
 - Wiz’s [HoneyBee threat research](https://www.wiz.io/blog/honeybee-threat-research) (2025) covers their open-source honeypot deployment tooling for misconfiguration and exploitation detection.
 - GreyNoise on [deploying MCP honeypots](https://www.greynoise.io/blog/deploying-mcp-honeypots) (2025) shares results from observing MCP exploitation attempts.
 - [Building a Military Honeypot](https://www.psu.edu/news/engineering/story/building-honeypot-fake-cameras-networks-deceive-military-adversaries) (2025) - Penn State’s effort to build deceptive camera and network environments for military use.
@@ -40,6 +42,8 @@ Entries are ordered by the most precise verified publication date, newest first;
 - Introducing HASH: The HTTP Agnostic Software [Honeypot framework](https://securitylabs.datadoghq.com/articles/hash-honeypot-framework/) (2023) for creating HTTP low-interaction honeypots. (code) [HASH](https://github.com/DataDog/hash).
 - Deception Engineering: exploring the use of [Windows Service Canaries](https://www.nccgroup.com/us/research-blog/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/) (2021) against ransomware. (code) [KilledProcessCanary](https://github.com/nccgroup/KilledProcessCanary).
 - Explain Like I'm Five: [Poison Records](https://hackernoon.com/poison-records-acra-eli5-d78250ef94f) (2018) (Honeypots for Database Tables). (code) [Acra Poison Records](https://github.com/cossacklabs/acra-poison-records-demo).
+- [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
+- [Taxonomy and terminology](https://bluepillsecurity.com/blog/001_terms/) - Terminology and definitions for cyber deception.
 
 ## Research
 
@@ -69,14 +73,6 @@ Entries are ordered by the most precise verified publication date, newest first;
 - [Honeyquest](https://github.com/dynatrace-oss/honeyquest)
 - [Knocking on Admin’s Door: Protecting Critical Web Applications with Deception](https://github.com/BillyPragSec/pageknocking)
 - [SCANTRAP: Protecting Content Management Systems from Vulnerability Scanners with Cyber Deception and Obfuscation](https://github.com/dfki-in-sec/SCANTRAP)
-
-## Guides
-
-- [Using Cyber Decoys to Strengthen Detection and Response](https://www.cisa.gov/sites/default/files/2026-09/using-cyber-decoys-to-strengthen-detection-and-response_508c.pdf) (2026) - Practical CISA guidance for planning, deploying, and refining internal decoys and honeytokens with MITRE Engage and ATT&CK to generate high-fidelity alerts and reduce detection time.
-- [Hugging Face Incident Initial Post-Mortem](https://s3.amazonaws.com/content-production.cloudsecurityalliance/semxe47vxhaqctzr4xeb1khbztvv?response-content-disposition=inline%3B%20filename%3D%22Hugging%20Face%20Incident%20Initial%20Post-Mortem_v.8f.pdf%22%3B%20filename%2A%3DUTF-8%27%27Hugging%2520Face%2520Incident%2520Initial%2520Post-Mortem_v.8f.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS6XDIRHKHO4F5SU4%2F20260807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260807T180358Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=2826498bb01aa1503d9cbe5699a0863f1763ee248c607ea1e9e07063f343f4bc) (2026) - Expedited strategy briefing that recommends deploying fake identities, credentials, package registries, datasets, APIs, and clusters to slow attackers and generate high-confidence indicators.
-- [The “AI Vulnerability Storm”: Building a “Mythos-ready” Security Program](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf) (2026) - CSA strategy briefing that flags deception as a priority in AI-driven vulnerability discovery and response programs.
-- [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
-- [Taxonomy and terminology](https://bluepillsecurity.com/blog/001_terms/) - Terminology and definitions for cyber deception.
 
 ## Talks
 
