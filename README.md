@@ -2,11 +2,12 @@
 
 > Misleading attackers with honeypots, honeytokens, and decoys to detect, study, and disrupt intrusions. For a list of open source honeypots, see [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
+Entries are ordered by the most precise verified publication date, newest first; entries without a verified date follow dated entries.
+
 ## Contents
 
 - [Articles](#articles)
 - [Research](#research)
-- [Guides](#guides)
 - [Talks](#talks)
 - [Podcasts](#podcasts)
 - [Conferences](#conferences)
@@ -15,14 +16,11 @@
 
 ## Articles
 
-- Explain Like I'm Five: [Poison Records](https://hackernoon.com/poison-records-acra-eli5-d78250ef94f) (2018) (Honeypots for Database Tables). (code) [Acra Poison Records](https://github.com/cossacklabs/acra-poison-records-demo).
-- Deception Engineering: exploring the use of [Windows Service Canaries](https://www.nccgroup.com/us/research-blog/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/) (2021) against ransomware. (code) [KilledProcessCanary](https://github.com/nccgroup/KilledProcessCanary).
-- Valve used [secret memory access “honeypot”](https://arstechnica.com/gaming/2023/02/valve-used-secret-memory-access-honeypot-to-detect-40k-dota-2-cheaters/) (2023) to detect 40K Dota 2 cheaters; see the [Hacker News discussion](https://news.ycombinator.com/item?id=34909218) on potential implementation techniques.
-- Introducing HASH: The HTTP Agnostic Software [Honeypot framework](https://securitylabs.datadoghq.com/articles/hash-honeypot-framework/) (2023) for creating HTTP low-interaction honeypots. (code) [HASH](https://github.com/DataDog/hash).
-- Cloud [Active Defense](https://www.helpnetsecurity.com/2024/04/02/cloud-active-defense-open-source-cloud-protection/) (2024): Open-source cloud protection. (code) [Cloud Active Defense](https://github.com/SAP/cloud-active-defense).
-- Thinkst’s It’s Baaack… [Credit Card Canarytokens](https://blog.thinkst.com/2024/12/its-baaack-credit-card-canarytokens-are-now-on-your-consoles.html) (2024) are now on your Consoles.
-- UK’s NCSC on [building a nation-scale evidence base](https://www.ncsc.gov.uk/blog-post/building-a-nation-scale-evidence-base-for-cyber-deception) (2024) outlines the UK’s goals for large-scale deception deployment.
-- [LLM Agent Honeypot](https://ai-honeypot.palisaderesearch.org/) (2024-2025) - A live experiment tracking AI-assisted attack activity in the wild.
+- [Using Cyber Decoys to Strengthen Detection and Response](https://www.cisa.gov/sites/default/files/2026-09/using-cyber-decoys-to-strengthen-detection-and-response_508c.pdf) (2026) - Practical CISA guidance for planning, deploying, and refining internal decoys and honeytokens with MITRE Engage and ATT&CK to generate high-fidelity alerts and reduce detection time.
+- [Hugging Face Incident Initial Post-Mortem](https://s3.amazonaws.com/content-production.cloudsecurityalliance/semxe47vxhaqctzr4xeb1khbztvv?response-content-disposition=inline%3B%20filename%3D%22Hugging%20Face%20Incident%20Initial%20Post-Mortem_v.8f.pdf%22%3B%20filename%2A%3DUTF-8%27%27Hugging%2520Face%2520Incident%2520Initial%2520Post-Mortem_v.8f.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS6XDIRHKHO4F5SU4%2F20260807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260807T180358Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=2826498bb01aa1503d9cbe5699a0863f1763ee248c607ea1e9e07063f343f4bc) (2026) - Expedited strategy briefing that recommends deploying fake identities, credentials, package registries, datasets, APIs, and clusters to slow attackers and generate high-confidence indicators.
+- Wiz’s [Practical Package Security: The Unofficial Guide](https://www.wiz.io/blog/practical-package-security-the-unofficial-guide) (2026) highlights CI/CD honeytokens for high-signal detection, citing Grafana’s canary AWS key alert during a compromised GitHub Action incident.
+- Ars Technica on [a Canadian election-list canary trap](https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/) (2026) covers how salted entries identified the source of a voter database leak.
+- [The “AI Vulnerability Storm”: Building a “Mythos-ready” Security Program](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf) (2026) - CSA strategy briefing that flags deception as a priority in AI-driven vulnerability discovery and response programs.
 - Wiz’s [HoneyBee threat research](https://www.wiz.io/blog/honeybee-threat-research) (2025) covers their open-source honeypot deployment tooling for misconfiguration and exploitation detection.
 - GreyNoise on [deploying MCP honeypots](https://www.greynoise.io/blog/deploying-mcp-honeypots) (2025) shares results from observing MCP exploitation attempts.
 - [Building a Military Honeypot](https://www.psu.edu/news/engineering/story/building-honeypot-fake-cameras-networks-deceive-military-adversaries) (2025) - Penn State’s effort to build deceptive camera and network environments for military use.
@@ -36,17 +34,26 @@
 - Resecurity on [synthetic data for cyber deception and honeypots](https://www.resecurity.com/es/blog/article/synthetic-data-a-new-frontier-for-cyber-deception-and-honeypots) (2025) explores synthetic data to improve honeypot realism.
 - Forescout on [a hacktivist attack targeting OT/ICS](https://www.forescout.com/blog/anatomy-of-a-hacktivist-attack-russian-aligned-group-targets-otics/) (2025) analyzes the incident, including honeypot use and defensive takeaways.
 - UpGuard on [preventing supply chain attacks with honeytokens](https://www.upguard.com/blog/prevent-supply-chain-attacks-with-honeytokens) (2025).
-- Ars Technica on [a Canadian election-list canary trap](https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/) (2026) covers how salted entries identified the source of a voter database leak.
-- Wiz’s [Practical Package Security: The Unofficial Guide](https://www.wiz.io/blog/practical-package-security-the-unofficial-guide) (2026) highlights CI/CD honeytokens for high-signal detection, citing Grafana’s canary AWS key alert during a compromised GitHub Action incident.
+- [LLM Agent Honeypot](https://ai-honeypot.palisaderesearch.org/) (2024-2025) - A live experiment tracking AI-assisted attack activity in the wild.
+- Cloud [Active Defense](https://www.helpnetsecurity.com/2024/04/02/cloud-active-defense-open-source-cloud-protection/) (2024): Open-source cloud protection. (code) [Cloud Active Defense](https://github.com/SAP/cloud-active-defense).
+- Thinkst’s It’s Baaack… [Credit Card Canarytokens](https://blog.thinkst.com/2024/12/its-baaack-credit-card-canarytokens-are-now-on-your-consoles.html) (2024) are now on your Consoles.
+- UK’s NCSC on [building a nation-scale evidence base](https://www.ncsc.gov.uk/blog-post/building-a-nation-scale-evidence-base-for-cyber-deception) (2024) outlines the UK’s goals for large-scale deception deployment.
+- Valve used [secret memory access “honeypot”](https://arstechnica.com/gaming/2023/02/valve-used-secret-memory-access-honeypot-to-detect-40k-dota-2-cheaters/) (2023) to detect 40K Dota 2 cheaters; see the [Hacker News discussion](https://news.ycombinator.com/item?id=34909218) on potential implementation techniques.
+- Introducing HASH: The HTTP Agnostic Software [Honeypot framework](https://securitylabs.datadoghq.com/articles/hash-honeypot-framework/) (2023) for creating HTTP low-interaction honeypots. (code) [HASH](https://github.com/DataDog/hash).
+- Deception Engineering: exploring the use of [Windows Service Canaries](https://www.nccgroup.com/us/research-blog/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/) (2021) against ransomware. (code) [KilledProcessCanary](https://github.com/nccgroup/KilledProcessCanary).
+- Explain Like I'm Five: [Poison Records](https://hackernoon.com/poison-records-acra-eli5-d78250ef94f) (2018) (Honeypots for Database Tables). (code) [Acra Poison Records](https://github.com/cossacklabs/acra-poison-records-demo).
+- [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
+- [Taxonomy and terminology](https://bluepillsecurity.com/blog/001_terms/) - Terminology and definitions for cyber deception.
 
 ## Research
 
 ### Papers
 
-- [Demystifying Deception Technology: A Survey](https://arxiv.org/abs/1804.06196) (2018) - Survey of deception taxonomies, deployment models, and evaluation gaps.
-- [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/doi/abs/10.1145/3214305) (2019) - Broad survey of deception methods and research directions.
-- [The Tularosa Study: An Experimental Design and Implementation to Quantify the Effectiveness of Cyber Deception](https://scholarspace.manoa.hawaii.edu/items/f05182cc-6460-410e-a750-e7c17f674be1) (2019) - HICSS study with 130+ red teamers, manipulating deception presence and awareness while tracking cognitive and physiological effects.
-- [When Announcing Deception Technology Can Change Attacker Decisions](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/6c188375-03f6-4d66-afee-296308c9f2c0/content) (2024) - Study on how disclosure of deception influences attacker behavior.
+- [HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense](https://arxiv.org/abs/2601.04034) (2026) - Proposes a deceptive LLM defense framework with multi-agent coordination, plus a progressive jailbreak dataset and new metrics for measuring misdirection and attacker cost.
+- [Measuring the Efficacy of Cyber Deception](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176834017.70221537) (2026) - Examines how to measure cyber deception effectiveness by reviewing existing evaluation approaches and proposing new metrics and frameworks to assess deceptive tactics in modern, AI-augmented threat environments.
+- [Q-Cowrie: Reinforcement Learning for Adaptive Honeypot Deception](https://link.springer.com/article/10.1007/s10207-026-01221-5) (2026) - Presents “Q-Cowrie,” a reinforcement learning-enhanced Cowrie honeypot that models attacker decisions with an MDP and adapts responses during attacker interaction.
+- [Deception and Detection: Why Artificial Intelligence Empowers Cyber Defense over Offense](https://direct.mit.edu/isec/article/50/3/86/135683/Deception-and-Detection-Why-Artificial) (2026) - Argues that AI automation benefits cyber defense more than offense, widening an offense-defense automation gap as stakes increase.
+- [Detecting Offensive Cyber Agents: A Detection-in-Depth Approach](https://www.iaps.ai/research/detecting-offensive-cyber-agents) (2026) - Proposes detection-in-depth for offensive cyber agents, recommending agent honeypots to reveal autonomous attackers’ methods and urging existing honeypot operators to add agent-activity collection.
 - [Prospect Theoretic Hypothesis Testing-based Cyber Deception](https://ieeexplore.ieee.org/abstract/document/11206237) (2025) - Study on using prospect theory to shape deception during reconnaissance.
 - [Towards bio-inspired cyber-deception: a case study of SSH and Telnet honeypots](https://backend.orbit.dtu.dk/ws/portalfiles/portal/398564454/ADND_Workshop_2025_Towards_bio_inspired_cyber_deception.pdf) (2025) - Evaluates bio-inspired deception strategies in Cowrie SSH/Telnet honeypots.
 - [Koney: A Cyber Deception Orchestration Framework for Kubernetes](https://arxiv.org/pdf/2504.02431) (2025) - Orchestrates deception assets across Kubernetes clusters.
@@ -55,11 +62,10 @@
 - [A Descriptive Model for Modelling Attacker Decision-Making in Cyber-Deception](https://arxiv.org/abs/2512.03641) (2025) - Proposes a model of attacker engagement decisions under deception cues.
 - [Agentic AI for Cyber Resilience: A New Security Paradigm and Its System-Theoretic Foundations](https://arxiv.org/abs/2512.22883) (2025) - Argues for agentic resilience with cyber deception case studies.
 - [SoK: Honeypots & LLMs, More Than the Sum of Their Parts?](https://arxiv.org/abs/2510.25939) (2025) - Systematizes LLM-powered honeypot research and evaluation trends.
-- [HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense](https://arxiv.org/abs/2601.04034) (2026) - Proposes a deceptive LLM defense framework with multi-agent coordination, plus a progressive jailbreak dataset and new metrics for measuring misdirection and attacker cost.
-- [Measuring the Efficacy of Cyber Deception](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176834017.70221537) (2026) - Examines how to measure cyber deception effectiveness by reviewing existing evaluation approaches and proposing new metrics and frameworks to assess deceptive tactics in modern, AI-augmented threat environments.
-- [Q-Cowrie: Reinforcement Learning for Adaptive Honeypot Deception](https://link.springer.com/article/10.1007/s10207-026-01221-5) (2026) - Presents “Q-Cowrie,” a reinforcement learning-enhanced Cowrie honeypot that models attacker decisions with an MDP and adapts responses during attacker interaction.
-- [Deception and Detection: Why Artificial Intelligence Empowers Cyber Defense over Offense](https://direct.mit.edu/isec/article/50/3/86/135683/Deception-and-Detection-Why-Artificial) (2026) - Argues that AI automation benefits cyber defense more than offense, widening an offense-defense automation gap as stakes increase.
-- [Detecting Offensive Cyber Agents: A Detection-in-Depth Approach](https://www.iaps.ai/research/detecting-offensive-cyber-agents) (2026) - Proposes detection-in-depth for offensive cyber agents, recommending agent honeypots to reveal autonomous attackers’ methods and urging existing honeypot operators to add agent-activity collection.
+- [When Announcing Deception Technology Can Change Attacker Decisions](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/6c188375-03f6-4d66-afee-296308c9f2c0/content) (2024) - Study on how disclosure of deception influences attacker behavior.
+- [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/doi/abs/10.1145/3214305) (2019) - Broad survey of deception methods and research directions.
+- [The Tularosa Study: An Experimental Design and Implementation to Quantify the Effectiveness of Cyber Deception](https://scholarspace.manoa.hawaii.edu/items/f05182cc-6460-410e-a750-e7c17f674be1) (2019) - HICSS study with 130+ red teamers, manipulating deception presence and awareness while tracking cognitive and physiological effects.
+- [Demystifying Deception Technology: A Survey](https://arxiv.org/abs/1804.06196) (2018) - Survey of deception taxonomies, deployment models, and evaluation gaps.
 
 ### Code Repositories
 
@@ -68,16 +74,9 @@
 - [Knocking on Admin’s Door: Protecting Critical Web Applications with Deception](https://github.com/BillyPragSec/pageknocking)
 - [SCANTRAP: Protecting Content Management Systems from Vulnerability Scanners with Cyber Deception and Obfuscation](https://github.com/dfki-in-sec/SCANTRAP)
 
-## Guides
-
-- [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
-- [Taxonomy and terminology](https://bluepillsecurity.com/blog/001_terms/) - Terminology and definitions for cyber deception.
-- [The “AI Vulnerability Storm”: Building a “Mythos-ready” Security Program](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf) (2026) - CSA strategy briefing that flags deception as a priority in AI-driven vulnerability discovery and response programs.
-- [Hugging Face Incident Initial Post-Mortem](https://s3.amazonaws.com/content-production.cloudsecurityalliance/semxe47vxhaqctzr4xeb1khbztvv?response-content-disposition=inline%3B%20filename%3D%22Hugging%20Face%20Incident%20Initial%20Post-Mortem_v.8f.pdf%22%3B%20filename%2A%3DUTF-8%27%27Hugging%2520Face%2520Incident%2520Initial%2520Post-Mortem_v.8f.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS6XDIRHKHO4F5SU4%2F20260807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260807T180358Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=2826498bb01aa1503d9cbe5699a0863f1763ee248c607ea1e9e07063f343f4bc) (2026) - Expedited strategy briefing that recommends deploying fake identities, credentials, package registries, datasets, APIs, and clusters to slow attackers and generate high-confidence indicators.
-- [Using Cyber Decoys to Strengthen Detection and Response](https://www.cisa.gov/sites/default/files/2026-09/using-cyber-decoys-to-strengthen-detection-and-response_508c.pdf) (2026) - Practical CISA guidance for planning, deploying, and refining internal decoys and honeytokens with MITRE Engage and ATT&CK to generate high-fidelity alerts and reduce detection time.
-
 ## Talks
 
+- [The 'Breaking' News: The OpenAI–Hugging Face Incident](https://youtu.be/87DyyMV0kCY?t=2113) (2026) - Black Hat USA talk on the incident that, at 35:13, calls for deploying honeytokens and deception to slow attacking AI agents.
 - [Deception & Operations Planning Frameworks](https://www.youtube.com/watch?v=yIutY_X2FcU) (2025) - ShmooCon talk on a physical deception operation.
 - [Applying Deception to the Attack Lifecycle](https://www.youtube.com/watch?v=vEHg9hRyJ9c) (2025) - Tim Pappa and Skylar Simmons (Walmart) on using deception across the attacker journey.
 - [Sweet Deception: Mastering AWS Honey Tokens to Detect and Outsmart Attackers](https://www.youtube.com/watch?v=R75ZTBnUwXk) (2025) - Nick Frichette.
@@ -85,7 +84,6 @@
 - [Turning The Tables: Using Cyber Deception To Hunt Phishers At Scale](https://www.youtube.com/watch?v=78qnM_ZzpNc) (2024) - BSides Exeter.
 - [Counter Deception: Defending Yourself in a World Full of Lies](https://www.youtube.com/watch?v=gHqDEMrqTjE) (2024) - DEF CON 32, Tom Cross and Greg Conti.
 - [Mirage: Cyber Deception Against Autonomous Cyber Attacks](https://www.youtube.com/watch?v=S0ioMe-g0vk) (2024) - Black Hat USA 2024, Ron Alford and Michael Kouremetis.
-- [The 'Breaking' News: The OpenAI–Hugging Face Incident](https://youtu.be/87DyyMV0kCY?t=2113) (2026) - Black Hat USA talk on the incident that, at 35:13, calls for deploying honeytokens and deception to slow attacking AI agents.
 
 ## Podcasts
 
