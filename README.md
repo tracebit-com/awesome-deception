@@ -104,6 +104,7 @@ Entries are ordered by the most precise verified publication date, newest first;
 - [MITRE Engage™](https://engage.mitre.org/) - Adversary engagement framework, with a [data repository](https://github.com/mitre/engage/tree/main).
 - [MITRE D3FEND™](https://d3fend.mitre.org/) - Defensive cybersecurity countermeasures knowledge graph, with [software repositories](https://github.com/d3fend).
 - [Deception-as-Detection](https://github.com/0x4D31/deception-as-detection) - Deception planning mapped against the MITRE ATT&CK matrix.
+- [Koru](https://github.com/bekaans/koru) - Open-source (Apache-2.0) deception-based runtime security for Linux servers: honeytoken access detection at kernel level (eBPF) with AI-agent attribution via process lineage; decoy and rule packages are data files, managed with a full lifecycle (unique per host, integrity, clean removal).
 
 ## Footnotes
 
