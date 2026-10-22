@@ -7,7 +7,7 @@ Thanks for considering a contribution to this list! Please ensure your pull requ
 - Suggested resources should be on-topic for cyber deception: honeytokens, decoys, canaries, deception-aware detection, attacker engagement, or related research and operations.
 - Individual open source honeypots are best sent to [awesome-honeypots](https://github.com/paralax/awesome-honeypots) rather than this list. Articles, papers, talks, and frameworks that happen to involve honeypots are still in scope here.
 - Make sure the resource is high-quality, useful, and not duplicated elsewhere on the list.
-- Place new entries at the bottom of the appropriate section unless there is a clear reason to put them elsewhere.
+- Insert new entries in the appropriate subsection in descending order by the most precise verified publication date (newest first), including within the same year. Do not invent missing months or days. Place entries without a verified publication date after dated entries.
 - Use the format `- [Name](link) - Description.`
   - Description starts with an uppercase character and ends with a period.
   - Years for papers, talks, or conference editions should appear in the description in parentheses, e.g. `(2025)`.

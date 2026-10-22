@@ -49,6 +49,7 @@ Entries are ordered by the most precise verified publication date, newest first;
 
 ### Papers
 
+- [Honeypots for AI Agent Insider Threats](https://arxiv.org/pdf/2610.26664) (2026) - Examines honeypots for detecting, incriminating, and deterring AI agent insider threats, including limitations and a technical research agenda.
 - [HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense](https://arxiv.org/abs/2601.04034) (2026) - Proposes a deceptive LLM defense framework with multi-agent coordination, plus a progressive jailbreak dataset and new metrics for measuring misdirection and attacker cost.
 - [Measuring the Efficacy of Cyber Deception](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176834017.70221537) (2026) - Examines how to measure cyber deception effectiveness by reviewing existing evaluation approaches and proposing new metrics and frameworks to assess deceptive tactics in modern, AI-augmented threat environments.
 - [Q-Cowrie: Reinforcement Learning for Adaptive Honeypot Deception](https://link.springer.com/article/10.1007/s10207-026-01221-5) (2026) - Presents “Q-Cowrie,” a reinforcement learning-enhanced Cowrie honeypot that models attacker decisions with an MDP and adapts responses during attacker interaction.
