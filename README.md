@@ -66,6 +66,7 @@ Entries are ordered by the most precise verified publication date, newest first;
 - [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/doi/abs/10.1145/3214305) (2019) - Broad survey of deception methods and research directions.
 - [The Tularosa Study: An Experimental Design and Implementation to Quantify the Effectiveness of Cyber Deception](https://scholarspace.manoa.hawaii.edu/items/f05182cc-6460-410e-a750-e7c17f674be1) (2019) - HICSS study with 130+ red teamers, manipulating deception presence and awareness while tracking cognitive and physiological effects.
 - [Demystifying Deception Technology: A Survey](https://arxiv.org/abs/1804.06196) (2018) - Survey of deception taxonomies, deployment models, and evaluation gaps.
+- [Honeypots for AI Agent Insider Threats](https://arxiv.org/pdf/2610.26664) (2026) - Examines honeypots for detecting, incriminating, and deterring AI agent insider threats, including limitations and a technical research agenda.
 
 ### Code Repositories
 
