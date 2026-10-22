@@ -12,9 +12,10 @@ This repository is a curated list (`README.md`) of deception-related resources. 
    - Confirm the year from the source itself (publication date, paper metadata, DOI page, arXiv record, conference page, etc.).
    - Do not rely only on surrounding list context or assumptions.
 
-3. **Default placement rule: append to the end of the relevant subsection**
-   - Unless the user explicitly asks for reordering/sorting, add new bullets to the **end** of that subsection.
-   - Do not insert a new entry between existing items that share the same year unless explicitly asked to reorder.
+3. **Order entries by publication date, newest first**
+   - Insert new bullets in descending publication date order within the relevant subsection.
+   - Use the most precise publication date verified from the source to order entries, including entries in the same year. Do not invent missing months or days.
+   - Place entries without a verified publication date after dated entries.
 
 4. **Keep existing style consistent**
    - Format: `- [Title](URL) (YEAR) - short description.` for paper-like entries.
@@ -32,6 +33,6 @@ This repository is a curated list (`README.md`) of deception-related resources. 
 ## Pre-commit checklist (required)
 - Verify each changed/added URL and title are real.
 - Verify each changed/added year is correct.
-- Confirm new bullets were appended (unless user requested different ordering).
+- Confirm new bullets follow descending verified publication date order, with undated entries after dated entries.
 - Check for accidental duplicates.
 - Run: `git diff -- README.md` and sanity-check every changed line.
